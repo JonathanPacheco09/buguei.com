@@ -18,7 +18,7 @@ Desafio nomeado de "buguei.com". O desafio tem como objetivo de criar 3 servidor
 
 
 ## ARQUITETURA DO PROJETO
-![infra]()
+![infra](/img/arq.jpeg)
 
 ## CHAVE SSH PARA ACESSO NA AWS
 ```bash
